@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kulshv/learnNode/issues"
   },
-  "homepage": "https://github.com/kulshv/learnNode#readme"
+  "homepage": "https://github.com/kulshv/learnNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
