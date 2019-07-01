@@ -21,5 +21,8 @@
   "homepage": "https://github.com/kulshv/learnNode#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
   }
 }
